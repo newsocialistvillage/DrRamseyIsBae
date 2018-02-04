@@ -13,10 +13,7 @@ CSI Class 394 Python Practicum
         
         
         Before: 
-        
-        
-        
-        
+        ![](https://github.com/newsocialistvillage/DrRamseyIsBae/blob/master/Screen%20Shot%202018-02-04%20at%2010.27.19.png)
         
         
         After: 
