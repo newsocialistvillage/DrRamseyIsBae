@@ -61,7 +61,6 @@ print(newB[:10])
 
 # add up all three new lists together
 L2 = []
-temp = 0
 
 for i in range(0, len(newR), 1):
     L2.append(newR[i])
