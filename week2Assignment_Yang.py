@@ -54,11 +54,6 @@ newR = [(a + b) / 2 for a, b in zip(R[::2], R[1::2])]
 newG = [(a + b) / 2 for a, b in zip(G[::2], G[1::2])]
 newB = [(a + b) / 2 for a, b in zip(B[::2], B[1::2])]
 
-# test printing
-print(newR[:10])
-print(newG[:10])
-print(newB[:10])
-
 # add up all three new lists together
 L2 = []
 
@@ -74,8 +69,6 @@ print(L2[:3])
 L2 = ['{:.0f}'.format(x) for x in L2]
 for i in range(len(L2)):
     L2[i] = L2[i] + "\n"
-
-print(L2[:10])
 
 with open('checkers.ppm', 'w') as fh:
         fh.write("P3\n")
