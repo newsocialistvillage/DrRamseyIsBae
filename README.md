@@ -12,3 +12,11 @@ CSI Class 394 Python Practicum
         opened up a PPM image, throw out every other color and then average every pair of colors to form a new PPM image. 
         
         
+        Before: 
+        
+        
+        
+        
+        
+        
+        After: 
