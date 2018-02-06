@@ -37,8 +37,6 @@ R = L[0:len(L):3]
 G = L[1:len(L):3]
 B = L[2:len(L):3]
 
-B = L[2:len(L):3]
-
 # throw out every other element
 altElement(R)
 altElement(G)
