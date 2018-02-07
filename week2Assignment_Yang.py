@@ -70,7 +70,7 @@ for i in range(len(L2)):
 
 with open('checkers.ppm', 'w') as fh:
         fh.write("P3\n")
-        fh.write("178 178\n")
+        fh.write("128 256\n")
         fh.write("255\n")
         for i in range(len(L2)):
             fh.write(L2[i])
